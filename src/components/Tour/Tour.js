@@ -1,12 +1,13 @@
 import React, { Component } from "react";
+import "./Tour.scss"
 
 export default class Tour extends Component {
   render() {
+    const{}
     return (
       <article className="tour">
         <div className="img-container">
           <img
-            width="200"
             src="https://images.pexels.com/photos/6913782/pexels-photo-6913782.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
             alt=""
           />
